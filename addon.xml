@@ -19,7 +19,7 @@
         <description lang="en">[COLOR limegreen]Open[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/drinfernoo/plugin.program.openwizard/</source>
+        <source>https://github.com/slmlm2009/plugin.program.openwizard/</source>
         <news>
 1.4.9
  - Fix Error Related to Log
